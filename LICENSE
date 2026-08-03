@@ -133,8 +133,8 @@ the notice requirements in Section 3.4).
 2.4. Subsequent Licenses
 
 No Contributor makes additional grants as a result of Your choice to
-distribute Covered Software under a subsequent version of this License
-(see Section 10.2) or under the terms of a Secondary License (if
+distribute the Covered Software under a subsequent version of this
+License (see Section 10.2) or under the terms of a Secondary License (if
 permitted under the terms of Section 3.3).
 
 2.5. Representation
@@ -174,8 +174,8 @@ If You distribute Covered Software in Executable Form then:
 (a) such Covered Software must also be made available in Source Code
     Form, as described in Section 3.1, and You must inform recipients of
     the Executable Form how they can obtain a copy of such Source Code
-    Form by reasonable means in a timely manner, at a charge no more than
-    the cost of distribution to the recipient; and
+    Form by reasonable means in a timely manner, at a charge no more
+    than the cost of distribution to the recipient; and
 
 (b) You may distribute such Executable Form under the terms of this
     License, or sublicense it under different terms, provided that the
@@ -191,7 +191,7 @@ Software with a work governed by one or more Secondary Licenses, and the
 Covered Software is not Incompatible With Secondary Licenses, this
 License permits You to additionally distribute such Covered Software
 under the terms of such Secondary License(s), so that the recipient of
-Larger Work may, at their option, further distribute such Covered
+the Larger Work may, at their option, further distribute the Covered
 Software under the terms of either this License or such Secondary
 License(s).
 
@@ -207,7 +207,7 @@ the extent required to remedy known factual inaccuracies.
 
 You may choose to offer, and to charge a fee for, warranty, support,
 indemnity or liability obligations to one or more recipients of Covered
-Software. However, you may do so only on Your own behalf, and not on
+Software. However, You may do so only on Your own behalf, and not on
 behalf of any Contributor. You must make it absolutely clear that any
 such warranty, support, indemnity, or liability obligation is offered by
 You alone, and You hereby agree to indemnify every Contributor for any
@@ -221,10 +221,10 @@ jurisdiction.
 
 If it is impossible for You to comply with any of the terms of this
 License with respect to some or all of the Covered Software due to
-statute, judicial order, or regulation then You must: (a) comply with the
-terms of this License to the maximum extent possible; and (b) describe
-the limitations and the code they affect. Such description must be
-placed in a text file included with all distributions of the Covered
+statute, judicial order, or regulation then You must: (a) comply with
+the terms of this License to the maximum extent possible; and (b)
+describe the limitations and the code they affect. Such description must
+be placed in a text file included with all distributions of the Covered
 Software under this License. Except to the extent prohibited by statute
 or regulation, such description must be sufficiently detailed for a
 recipient of ordinary skill to be able to understand it.
@@ -333,8 +333,8 @@ distinguishing version number.
 10.2. Effect of New Versions
 
 You may distribute the Covered Software under the terms of the version
-of the License under which You originally received Covered Software, or
-under the terms of any subsequent version published by the license
+of the License under which You originally received the Covered Software,
+or under the terms of any subsequent version published by the license
 steward.
 
 10.3. Modified Versions
