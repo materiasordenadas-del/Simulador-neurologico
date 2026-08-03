@@ -2,11 +2,11 @@
 
 Simulador web interactivo para la enseñanza y evaluación del examen neurológico mediante pacientes virtuales tridimensionales.
 
-## Estado actual
+## Fase actual
 
-El proyecto se encuentra en la **Fase 0: arquitectura y contratos fundamentales**.
+**Fase 0: arquitectura y contratos fundamentales.**
 
-La primera vertical funcional estará limitada a:
+La primera vertical funcional está limitada a:
 
 - un paciente adulto;
 - una personalidad tranquila y cooperadora;
@@ -18,4 +18,21 @@ La primera vertical funcional estará limitada a:
 
 ## Principio arquitectónico
 
-La lógica clínica no dependerá del motor gráfico. El caso, la conversación, el examen y el estado de la simulación se implementarán como dominio TypeScript puro. Babylon.js, MetaHuman, voz o futuros modelos de lenguaje se conectarán mediante adaptadores reemplazables.
+La lógica clínica no depende del motor gráfico. El caso, la conversación, el examen y el estado de la simulación se implementan como dominio TypeScript puro. Babylon.js, MetaHuman, voz o futuros modelos de lenguaje se conectarán mediante adaptadores reemplazables.
+
+## Desarrollo local
+
+```bash
+npm install
+npm run dev
+```
+
+Comprobaciones:
+
+```bash
+npm run typecheck
+npm test
+npm run build
+```
+
+Consulta `docs/architecture.md` y `docs/scope-v0.1.md` antes de ampliar el alcance.
